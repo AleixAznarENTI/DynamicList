@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">DynamicList</string>
+    <string name="primero">Xuě huā piāo piāo běi fēng xiāo xiāo</string>
+    <string name="segundo">Tiān dì yí piàn cāng máng</string>
+    <string name="tercero">Yì jiǎn hán méi ào lì xuě zhōng</string>
+    <string name="cuarto">Zhǐ wéi yī rén piāo xiāng</string>
+    <string name="quinto">Ài wǒ suǒ ài wú yuàn wú huǐ</string>
+    <string name="sexto">Cǐ qíng cháng liú xīn jiān</string>
+    <string name="septimo">Xuě huā piāo piāo běi fēng xiāo xiāo</string>
+    <string name="octavo">Tiān dì yí piàn cāng máng</string>
+    <string name="noveno">Yì jiǎn hán méi ào lì xuě zhōng</string>
+    <string name="decimo">Zhǐ wéi yī rén piāo xiāng</string>
+
+    <string name="snUno">Yellow</string>
+    <string name="snDos">Mirror</string>
+    <string name="snTres">Overdose</string>
+    <string name="snCuatro">Shounen Shoujo</string>
+    <string name="snCinco">Let There Be Light Again</string>
+    <string name="snSeis">Avant</string>
+    <string name="snSiete">Dramaturgy</string>
+    <string name="snOcho">River</string>
+    <string name="snNueve">Under The Tree</string>
+    <string name="snDiez">Black Catcher</string>
+
+    <string name="anUno">Yoh Kamiyama</string>
+    <string name="anDos">Ado</string>
+    <string name="anTres">Natori</string>
+    <string name="anCuatro">Ging Nang Boyz</string>
+    <string name="anCinco">Sunset Rollercoaster</string>
+    <string name="anSeis">Eve</string>
+    <string name="anSiete">Eve</string>
+    <string name="anOcho">Anonymouz</string>
+    <string name="anNueve">SiM</string>
+    <string name="anDiez">VickeBlanka</string>
+
+    <string name="alnUno">Yellow</string>
+    <string name="alnDos">Zanmu</string>
+    <string name="alnTres">Overdose</string>
+    <string name="alnCuatro">Shounen Shoujo</string>
+    <string name="alnCinco">Let There Be Light Again</string>
+    <string name="alnSeis">Eve</string>
+    <string name="alnSiete">Bunka</string>
+    <string name="alnOcho">River</string>
+    <string name="alnNueve">Playdead</string>
+    <string name="alnDiez">Black Catcher</string>
+
+    <string name="vUno">152M views</string>
+    <string name="vDos">9M views</string>
+    <string name="vTres">182M views</string>
+    <string name="vCuatro">3M views</string>
+    <string name="vCinco">787,612 views</string>
+    <string name="vSeis">15M views</string>
+    <string name="vSiete">189M views</string>
+    <string name="vOcho">6M views</string>
+    <string name="vNueve">11M views</string>
+    <string name="vDiez">75M views</string>
+
+    <string name="rdUno">03-11-2018</string>
+    <string name="rdDos">31-05-2024</string>
+    <string name="rdTres">07-09-2022</string>
+    <string name="rdCuatro">21-07-2021</string>
+    <string name="rdCinco">07-09-2021</string>
+    <string name="rdSeis">23-11-2023</string>
+    <string name="rdSiete">11-10-2017</string>
+    <string name="rdOcho">17-01-2023</string>
+    <string name="rdNueve">27-09-2023</string>
+    <string name="rdDiez">08-01-2020</string>
+
+    <string name="ytUno">www.youtube.com/watch?v=1_lap6dzSUc</string>
+    <string name="ytDos">www.youtube.com/watch?v=zsBBWBEZkFQ</string>
+    <string name="ytTres">www.youtube.com/watch?v=H08YWE4CIFQ</string>
+    <string name="ytCuatro">www.youtube.com/watch?v=XU7f1Lo75zw</string>
+    <string name="ytCinco">www.youtube.com/watch?v=03uDc9m4NcQ</string>
+    <string name="ytSeis">www.youtube.com/watch?v=m6CFrfKw60w</string>
+    <string name="ytSiete">www.youtube.com/watch?v=jJzw1h5CR-I</string>
+    <string name="ytOcho">www.youtube.com/watch?v=V-uTOWL8X0w</string>
+    <string name="ytNueve">www.youtube.com/watch?v=IPX-L2F78fU</string>
+    <string name="ytDiez">www.youtube.com/watch?v=hP6VM6YAMIE</string>
+</resources>
